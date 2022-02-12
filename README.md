@@ -1,4 +1,4 @@
-# React-weather-App
+# React-native-weather-api-axios
 
 React native ve axios ile OpenWeather API kullanarak Yaptığım hava durumu projesi
 
