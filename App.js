@@ -52,7 +52,7 @@ const App = () => {
 
 
       <ImageBackground
-        source={require("./src/City-wallpaper.jpg")}
+        source={{uri:("https://wallpaperaccess.com/full/2507919.jpg")}}
         resizeMode={'cover'}
         style={{ flex: 1 }}
       >
